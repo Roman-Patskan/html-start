@@ -1,0 +1,120 @@
+
+
+
+.container{
+position: absolute;
+width: 800px;
+height: 69px;
+left: 400px;
+top: 0px;
+background: #ECEEE0;
+}
+
+.logo{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 370px;
+top: 9px;
+border-radius: 100%;
+
+background: #65BB69;
+}
+
+.main{
+    position: absolute;
+width: 38px;
+height: 17px;
+left: 40px;
+top: 26px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+text-decoration: none;
+}
+
+.catalog{
+    position: absolute;
+width: 68px;
+height: 17px;
+left: 98px;
+top: 26px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+text-decoration: none;
+}
+
+.search{
+    position: absolute;
+width: 59px;
+height: 17px;
+left: 624px;
+top: 27px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+text-decoration: none;
+}
+
+.cart{
+    position: absolute;
+width: 38px;
+height: 17px;
+left: 703px;
+top: 27px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+text-decoration: none;
+}
+
+.icon{
+    position: absolute;
+    width: 14px;
+    height: 17px;
+    left: 750px;
+    top: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
